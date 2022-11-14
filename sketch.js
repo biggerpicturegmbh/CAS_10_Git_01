@@ -1,7 +1,6 @@
 let gameState = 1 
 let hasGamesStarted = false
 let counter
-
 let heroAction = 0
 
 function setup() {
