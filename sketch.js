@@ -22,4 +22,6 @@ function skyline(){
     rect(400, 0, 120, 250)
     rect(600, 0, 200, 450)
     rect(1600, 0, 200, 350)
+
+    // yjdnfglkeajnr 
 }
